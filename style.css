@@ -287,6 +287,9 @@ h2 {
     nav > a {
         display: none;
     }
+    nav > div {
+        margin-right: 0;
+    }
 }
 
 .wrapper {
