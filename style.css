@@ -290,6 +290,10 @@ h2 {
     nav > div {
         margin-right: 0;
     }
+
+    #top h1 {
+        font-size: 24pt;
+    }
 }
 
 .wrapper {
