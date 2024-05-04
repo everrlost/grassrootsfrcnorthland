@@ -1,2 +1,2 @@
 # grassrootsfrcnorthland
-Repo for grassrootsfrcnorthland website
+Repo for grassrootsfrcnorthland website. We like Districts!
