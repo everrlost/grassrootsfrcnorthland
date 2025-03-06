@@ -87,7 +87,6 @@ footer img {
 }
 
 main {
-    position: relative;
     text-align: center;
     font-size: 14pt;
     background-color: var(--background);
@@ -97,10 +96,6 @@ main {
 main section {
     padding: 0 20vw;
     z-index: inherit;
-}
-
-main > *:first-child {
-    margin-top: calc(100vh - 60px);
 }
 
 a {
