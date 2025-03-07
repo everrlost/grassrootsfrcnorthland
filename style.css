@@ -203,6 +203,10 @@ li {
     flex: 1 1 40%;
 }
 
+#why-districts p {
+    text-align: left;
+}
+
 #about-us img {
     min-width: 300px;
     max-width: 400px;
