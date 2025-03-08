@@ -87,7 +87,6 @@ footer img {
 }
 
 main {
-    position: relative;
     text-align: center;
     font-size: 14pt;
     background-color: var(--background);
@@ -97,10 +96,6 @@ main {
 main section {
     padding: 0 20vw;
     z-index: inherit;
-}
-
-main > *:first-child {
-    margin-top: calc(100vh - 60px);
 }
 
 a {
@@ -120,6 +115,10 @@ h1 {
 
 h2 {
     color: var(--accent-secondary);
+}
+
+li {
+    text-align: left;
 }
 
 .box-group {
@@ -202,6 +201,10 @@ h2 {
     min-width: 40%;
     max-width: 100%;
     flex: 1 1 40%;
+}
+
+#why-districts p {
+    text-align: left;
 }
 
 #about-us img {
