@@ -87,6 +87,7 @@ footer img {
 }
 
 main {
+    position: relative;
     text-align: center;
     font-size: 14pt;
     background-color: var(--background);
@@ -185,6 +186,11 @@ li {
 #top a {
     color: var(--background);
 }
+
+main > *:first-child {
+    margin-top: calc(100vh - 60px);
+}
+
 
 #top i {
     letter-spacing: 1.5px;
